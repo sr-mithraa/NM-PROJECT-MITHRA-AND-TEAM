@@ -94,4 +94,9 @@ The implementation of a CRM application on Salesforce will significantly improve
 
 ## Project Demo Video
 
-You can download or view the project demo video [here](NM-PROJECT-MITHRA-AND-TEAM/video_1.mp4).
+Here is a demo of the project:
+
+<video width="640" height="360" controls>
+  <source src="video_1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
